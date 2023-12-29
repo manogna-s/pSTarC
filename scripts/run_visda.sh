@@ -1,0 +1,1 @@
+python test_time_pstarc.py --opt_fe --K 5  --tta_bs 128 --tta_method pstarc --lamda 0.1 --dshift t2v --dataset visda --tta_lr 5e-4
